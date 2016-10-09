@@ -4,6 +4,7 @@ maintainer_email 'tech@timehop.com'
 license          'All rights reserved'
 description      'Installs/Configures dynamodb-local'
 long_description 'Installs/Configures dynamodb-local'
-version          '0.1.0'
+version          '0.2.0'
 
 depends 'tar'
+depends 'java'
