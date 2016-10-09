@@ -80,3 +80,5 @@ Include `dynamodb-local` in your node's `run_list`:
 Author:: Timehop (<tech@timehop.com>)
 
 MIT License - see `LICENSE`
+
+Init.d script provided by [AreisCloud](https://github.com/AerisCloud/ansible-dynamodb/blob/master/templates/dynamodb.init.sh) under the MIT license
